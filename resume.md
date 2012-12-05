@@ -16,12 +16,13 @@ A career in a Linux environment supporting technical and business users where th
 * Transitioned the Ruby stack from version 1.8.7 to 1.9.3.  I used Chef to configure an environment where developers could rewrite small parts of the code to version 1.9.3 while older code still ran 1.8.7.   When I left, everything except for the mail processor had been moved to 1.9.3.
 * Setup the Radar project, custom pubsub system, with the main developer over many revisions.  This was the first non-Ruby project written in NodeJS that needed a different deploy setup than our regular Ruby project deploys.  I adapted our single directory isolated Ruby setup using bundler gems to a NodeJS NPM isolated deploy.
 * Upgraded the Radar project after a full code rewrite with almost zero downtime by working closely with the developer and understanding where the single points of failures were.
-* Helped with the server and deploy setup of the Lotus project, a complete rewrite of the Zendesk front end, and the App Market project.  I was brought in and had a complete integration to production environment ready quickly and in time for launch with little notice.
+* 
+* Helped with the server and deploy setup of the Lotus project, a complete rewrite of the Zendesk front end, and the App Market project.  I setup a complete integration to production environment and worked with developers on environment bugs.
 * Moved from our original Engineyard hosted setup to Rackspace.  Wrote scripts to check all services going through the Rackspace managed network gear for consistency.
-* Expanded to a 2nd colocation at Ragingwire with a complete setup mirroring of all services.  Worked closely with the infrastructure engineer that made changes to Chef so it was multi-colo aware.  Bugs were worked out so that future colo bring ups would be quicker.
-* Ticket duty and writing scripts for customer service advocates so they would be abel to solve more tickets instead of escalating to operations.
-* On call duty and tuning monitoring in the goal of less false alerts.
-* Monthly scheduled maintenance duty where we brought down the entire site when there was major changes to be done.  Took part in almost every maintenance as the senior operations engineer.
+* Expanded to a 2nd colocation at Ragingwire with a complete setup mirroring of all services.  Worked closely with the infrastructure engineer that made changes to Chef so it was multi-colo aware.  Worked out bugs so that future colo bring ups would be quicker.
+* Ticket duty and wrote scripts for customer service advocates so they would be able to solve more tickets instead of escalating to operations.
+* On call duty and tuned monitoring with the goal of less false alerts.
+* Monthly scheduled maintenance duty where we brought down the entire site when there was major changes to be done.  Took part in almost every maintenance as the most senior operations engineer.
 
 **2010-2010, Senior System Administrator, Sonoa/Apigee, Santa Clara, CA**
 
