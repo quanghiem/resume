@@ -8,8 +8,19 @@ A career in a Linux environment supporting technical and business users where th
 
 **EXPERIENCE:**
 
+**2012-current, Senior Operations Engineer, Path, San Francisco, CA**
+
+* Grew the infrastructure to handle 10x the traffic.
+* Puppetized server tiers and wrote custom modules keeping new server config in a consistant state.
+* Wrote scripts to help streamline AWS server provisioning with notifications.
+* Wrote Fabric deploy scripts for new projects.
+* Redesigned the various server tiers to be highly available.
+* Scaled out the single graphite setup to a 4 node sharded setup currently handling 280K metrics/minute.
+* Created dashboards charting key metrics and site health using gdash and graphite.
+* Rebuilt the monitoring setup with more extensive checks and easier to manage configs under Puppet.
+
 **2010-2012, Senior Operations Engineer, Zendesk, San Francisco, CA**
- 
+
 * Started as the 2nd operations engineer supporting a young start up company grow from a 8 server setup to over 200 servers serving 381M requests per week.
 * Brought the monitoring system from a 3rd party managed Nagios setup to a fully automated in-house Icinga setup.  All new server bring ups were automatically monitored for both server and application health.
 * Setup integration environments (dev, QA, staging) mirroring the production environment for developers and operations to test their code.  Integration environments were easily scaled as new project requirements were added using Chef.
