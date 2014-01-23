@@ -4,19 +4,21 @@ Richard Nghiem
 
 **OBJECTIVE:**
 
-A career in a Linux environment supporting technical and business users where the opportunity to grow is encouraged.
+A position where I can work with developers to release products quickly, utilizing automation and deployment tools.
 
 **EXPERIENCE:**
 
 **2012-current, Senior Operations Engineer, Path, San Francisco, CA**
 
 * Grew the infrastructure to handle 10x the traffic.
-* Puppetized server tiers and wrote custom modules keeping new server config in a consistant state.
+* Worked with developers to release new features.
+* Puppetized server tiers and wrote custom modules keeping new server configs in a consistant state.
 * Wrote scripts to help streamline AWS server provisioning with notifications.
 * Wrote Fabric deploy scripts for new projects.
 * Redesigned the various server tiers to be highly available.
 * Scaled out the single graphite setup to a 4 node sharded setup currently handling 280K metrics/minute.
 * Created dashboards charting key metrics and site health using gdash and graphite.
+* Replaced our process management system, supervisord, with runit due to various problems.
 * Rebuilt the monitoring setup with more extensive checks and easier to manage configs under Puppet.
 
 **2010-2012, Senior Operations Engineer, Zendesk, San Francisco, CA**
