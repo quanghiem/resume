@@ -1,7 +1,5 @@
 Richard Nghiem
 ---
-767 Bryant St. #204, San Francisco, CA 94107, Mobile 415-680-3699, richard@nghiem.org
-
 **OBJECTIVE:**
 
 A position where I can work with developers to release products quickly, utilizing automation and deployment tools.
@@ -14,8 +12,9 @@ A position where I can work with developers to release products quickly, utilizi
 * Worked with developers to release new features.
 * Puppetized server tiers and wrote custom modules keeping new server configs in a consistant state.
 * Wrote scripts to help streamline AWS server provisioning with notifications.
-* Wrote Fabric deploy scripts for new projects.
 * Redesigned the various server tiers to be highly available.
+* Migrated our EC2 setup from classic to VPCs.  All VPC configurations were automated with Ansible and commited to source control.
+* Rewrote deploy scripts reducing deploy times from 2-3 hours to 2-3 minutes.
 * Scaled out the single graphite setup to a 4 node sharded setup currently handling 280K metrics/minute.
 * Created dashboards charting key metrics and site health using gdash and graphite.
 * Replaced our process management system, supervisord, with runit due to various problems.
