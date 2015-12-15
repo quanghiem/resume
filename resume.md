@@ -6,14 +6,14 @@ A position where I can work with developers to release products quickly, utilizi
 
 **EXPERIENCE:**
 
-**2012-current, Senior Operations Engineer, Path, San Francisco, CA**
+**2012-2015, Senior Operations Engineer, Path, San Francisco, CA**
 
-* Grew the infrastructure to handle 10x the traffic.
-* Worked with developers to release new features.
-* Puppetized server tiers and wrote custom modules keeping new server configs in a consistant state.
+* Grew the infrastructure to handle 30x the traffic.
+* Worked with developers to release new features and projects.
+* Puppetized server tiers and wrote custom modules keeping new server configs in a consistent state.
 * Wrote scripts to help streamline AWS server provisioning with notifications.
 * Redesigned the various server tiers to be highly available.
-* Migrated our EC2 setup from classic to VPCs.  All VPC configurations were automated with Ansible and commited to source control.
+* Migrated new projects to an automated AWS VPC setup utilizing Ansible.  All infrastructure changes are tracked in source control. 
 * Rewrote deploy scripts reducing deploy times from 2-3 hours to 2-3 minutes.
 * Scaled out the single graphite setup to a 4 node sharded setup currently handling 280K metrics/minute.
 * Created dashboards charting key metrics and site health using gdash and graphite.
