@@ -9,7 +9,7 @@ A position where I can work with developers to release products quickly, utilizi
 **2012-2015, Senior Operations Engineer, Path, San Francisco, CA**
 
 * Grew the infrastructure to handle 30x the traffic.
-* Worked with developers to release new features and projects.
+* Worked with developers in breaking our monolithic app into micro services improving scalibility.
 * Puppetized server tiers and wrote custom modules keeping new server configs in a consistent state.
 * Wrote scripts to help streamline AWS server provisioning with notifications.
 * Redesigned the various server tiers to be highly available.
